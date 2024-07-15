@@ -5,4 +5,5 @@
 #nginx:1.24.0
 #wordpress:latest
 #mysql:latest
-docker.io/macaoyx/openjdk17-nginx-alpine:1.0.1
+#docker.io/macaoyx/openjdk17-nginx-alpine:1.0.1
+freemanliu/openjre:8.272
