@@ -8,4 +8,5 @@
 #docker.io/macaoyx/openjdk17-nginx-alpine:1.0.1
 #freemanliu/openjre:8.272
 #centos:latest
-centos:7
+#centos:7
+centos:systemd
