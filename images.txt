@@ -13,4 +13,5 @@
 #python:3.9
 #docker.io/apache/skywalking-ui:9.4.0
 #onlyoffice/documentserver:7.2
-elasticsearch:6.8.6
+#elasticsearch:6.8.6
+mysql:8.0.39
