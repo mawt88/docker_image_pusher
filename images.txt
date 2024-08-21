@@ -12,4 +12,5 @@
 #ubuntu:22.04
 #python:3.9
 #docker.io/apache/skywalking-ui:9.4.0
-onlyoffice/documentserver:7.2
+#onlyoffice/documentserver:7.2
+elasticsearch:6.8.6
