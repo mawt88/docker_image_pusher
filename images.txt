@@ -16,4 +16,4 @@
 #elasticsearch:6.8.6
 #mysql:8.0.39
 #docker.io/nginx:alpine
-alertmanager:v0.27.0
+prom/alertmanager:v0.27.0
