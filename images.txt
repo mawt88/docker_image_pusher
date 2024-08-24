@@ -16,4 +16,6 @@
 #elasticsearch:6.8.6
 #mysql:8.0.39
 #docker.io/nginx:alpine
-prom/alertmanager:v0.27.0
+#prom/alertmanager:v0.27.0
+wangyanglinux/myapp:v1.0
+wangyanglinux/tools:busybox
