@@ -19,4 +19,5 @@
 #prom/alertmanager:v0.27.0
 #wangyanglinux/myapp:v1.0
 #wangyanglinux/tools:busybox
-hub.zentao.net/app/zentao:latest
+#hub.zentao.net/app/zentao:latest
+hub.zentao.net/app/zentao:20.6
