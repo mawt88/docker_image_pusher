@@ -23,4 +23,9 @@
 #hub.zentao.net/app/zentao:20.6
 #hub.zentao.net/app/zentao:20.7
 #openjdk:8
-index.docker.io/appsmith/appsmith-ce:release
+#index.docker.io/appsmith/appsmith-ce:release
+compreface-postgres-db
+compreface-api
+compreface-fe
+compreface-admin
+compreface-core
