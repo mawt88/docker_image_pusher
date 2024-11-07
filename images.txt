@@ -22,4 +22,5 @@
 #hub.zentao.net/app/zentao:latest
 #hub.zentao.net/app/zentao:20.6
 #hub.zentao.net/app/zentao:20.7
-openjdk:8
+#openjdk:8
+index.docker.io/appsmith/appsmith-ce:release
