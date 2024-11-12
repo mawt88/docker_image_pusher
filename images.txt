@@ -24,8 +24,8 @@
 #hub.zentao.net/app/zentao:20.7
 #openjdk:8
 #index.docker.io/appsmith/appsmith-ce:release
-exadel/compreface-postgres-db:1.2.0
-exadel/compreface-admin:1.2.0
-exadel/compreface-api:1.2.0
-exadel/compreface-fe:1.2.0
-exadel/compreface-core:1.2.0
+#exadel/compreface-postgres-db:1.2.0
+#exadel/compreface-admin:1.2.0
+#exadel/compreface-api:1.2.0
+#exadel/compreface-fe:1.2.0
+#exadel/compreface-core:1.2.0
