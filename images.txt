@@ -29,3 +29,4 @@
 #exadel/compreface-api:1.2.0
 #exadel/compreface-fe:1.2.0
 #exadel/compreface-core:1.2.0
+docker.io/freemanliu/openjre:8.272
