@@ -30,4 +30,6 @@
 #exadel/compreface-fe:1.2.0
 #exadel/compreface-core:1.2.0
 #docker.io/freemanliu/openjre:8.272
-minio:latest
+#minio:latest
+kubernetesui/dashboard:v2.0.0-rc5
+kubernetesui/metrics-scraper:v1.0.3
