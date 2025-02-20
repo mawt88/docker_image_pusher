@@ -34,4 +34,5 @@
 #kubernetesui/dashboard:v2.0.0-rc5
 #kubernetesui/metrics-scraper:v1.0.3
 #valkey/valkey:8
-infiniflow/infinity:v0.6.0-dev3
+#infiniflow/infinity:v0.6.0-dev3
+edwardelric233/ragflow:oc9
