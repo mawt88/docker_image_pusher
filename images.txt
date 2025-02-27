@@ -38,4 +38,5 @@
 #edwardelric233/ragflow:oc9
 #quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 #infiniflow/ragflow:v0.16.0-slim
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+beginor/gitlab-ce 
