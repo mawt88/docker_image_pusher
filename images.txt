@@ -41,5 +41,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #beginor/gitlab-ce 
 #langgenius/dify-plugin-daemon:0.0.2-local
-ossrs/srs:5
-ossrs/srs:v5.0.213
+ossrs/srs:5 --platform=arm64
+ossrs/srs:v5.0.213 --platform=arm64
