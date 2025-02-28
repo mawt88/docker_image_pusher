@@ -39,4 +39,5 @@
 #quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 #infiniflow/ragflow:v0.16.0-slim
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
-beginor/gitlab-ce 
+#beginor/gitlab-ce 
+langgenius/dify-plugin-daemon:0.0.2-local
