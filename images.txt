@@ -42,3 +42,4 @@
 #beginor/gitlab-ce 
 #langgenius/dify-plugin-daemon:0.0.2-local
 ossrs/srs:5
+ossrs/srs:v5.0.213
