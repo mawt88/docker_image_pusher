@@ -40,4 +40,5 @@
 #infiniflow/ragflow:v0.16.0-slim
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #beginor/gitlab-ce 
-langgenius/dify-plugin-daemon:0.0.2-local
+#langgenius/dify-plugin-daemon:0.0.2-local
+srs:5.0.213
