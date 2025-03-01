@@ -43,4 +43,5 @@
 #langgenius/dify-plugin-daemon:0.0.2-local
 #--platform=arm64 ossrs/srs:5 
 #--platform=arm64 ossrs/srs:v5.0.213 
-hub.c.163.com/library/jenkins:latest
+#hub.c.163.com/library/jenkins:latest
+jenkins/jenkins:2.332.1-lts-centos7 
