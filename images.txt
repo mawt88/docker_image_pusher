@@ -49,4 +49,5 @@
 #langgenius/dify-web:1.0.0
 #langgenius/dify-plugin-daemon:0.0.3-local
 #jenkins/jenkins:latest
-python:3.12
+#python:3.12
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
