@@ -57,3 +57,5 @@
 #milvusdb/milvus:v2.5.6
 ghcr.io/flannel-io/flannel-cni-plugin:v1.6.2-flannel1
 ghcr.io/flannel-io/flannel:v0.26.4
+kubernetesui/dashboard:v2.0.0
+kubernetesui/metrics-scraper:v1.0.4
