@@ -73,5 +73,7 @@ kubernetesui/dashboard:v2.0.0
 #docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 #docker.elastic.co/kibana/kibana:8.14.3
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
-#--platform linux/amd64,linux/arm64 ubuntu:18.04
---platform linux/amd64,linux/arm64 alpine:3.18
+--platform linux/amd64 ubuntu:18.04
+--platform linux/arm64 ubuntu:18.04
+--platform linux/amd64 alpine:3.18
+--platform linux/arm64 alpine:3.18
