@@ -77,4 +77,5 @@ kubernetesui/dashboard:v2.0.0
 #--platform linux/arm64 ubuntu:18.04
 #--platform linux/amd64 alpine:3.18
 #--platform linux/arm64 alpine:3.18
---platform linux/arm64 alpine/chromium:latest-arm64
+#--platform linux/arm64 alpine/chromium:latest-arm64
+browserless/chrome:arm64
