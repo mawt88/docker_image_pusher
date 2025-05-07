@@ -82,4 +82,4 @@ kubernetesui/dashboard:v2.0.0
 #--platform linux/arm64 zenika/alpine-chrome:with-node
 #ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
-weaviate:1.23.7
+semitechnologies/weaviate:1.23.7
