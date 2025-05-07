@@ -81,5 +81,6 @@ kubernetesui/dashboard:v2.0.0
 #browserless/chrome:arm64
 #--platform linux/arm64 zenika/alpine-chrome:with-node
 #ollama/ollama:latest
-ghcr.io/open-webui/open-webui:main
-semitechnologies/weaviate:1.23.7
+#ghcr.io/open-webui/open-webui:main
+#semitechnologies/weaviate:1.23.7
+cr.weaviate.io/semitechnologies/weaviate:1.30.0
