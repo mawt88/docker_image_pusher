@@ -85,4 +85,5 @@ kubernetesui/dashboard:v2.0.0
 #semitechnologies/weaviate:1.23.7
 #cr.weaviate.io/semitechnologies/weaviate:1.30.0
 #tindy2013/subconverter:latest
-hub.zentao.net/app/zentao:21.7
+#hub.zentao.net/app/zentao:21.7
+webgoat/webgoat-8.0
