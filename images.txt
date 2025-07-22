@@ -88,5 +88,7 @@ kubernetesui/dashboard:v2.0.0
 #hub.zentao.net/app/zentao:21.7
 #webgoat/webgoat-8.0
 #starrocks/allin1-ubuntu
-apache/doris:fe-2.1.8
-apache/doris:be-2.1.8
+#apache/doris:fe-2.1.8
+#apache/doris:be-2.1.8
+apache/doris:fe-3.0.6
+apache/doris:be-3.0.6
