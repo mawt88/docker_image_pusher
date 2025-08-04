@@ -120,4 +120,14 @@ kubernetesui/dashboard:v2.0.0
 #docker.io/library/caddy:2
 #jaegertracing/all-in-one:latest
 #cassandra:4.1
-clickhouse/clickhouse-server:25.3.6.56
+#clickhouse/clickhouse-server:25.3.6.56
+ghcr.io/open-telemetry/demo:latest
+ghcr.io/open-telemetry/demo
+ghcr.io/open-telemetry/opentelemetry-collector-releases/opentelemetry-collector-contrib:0.129.1
+ghcr.io/open-feature/flagd:v0.12.8
+grafana/grafana:12.0.2
+jaegertracing/all-in-one:1.70.0
+opensearchproject/opensearch:3.1.0
+postgres:17.5
+quay.io/prometheus/prometheus:v3.4.2
+valkey/valkey:8.1-alpine
