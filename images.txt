@@ -147,4 +147,5 @@ kubernetesui/dashboard:v2.0.0
 #postgres:17.5
 #quay.io/prometheus/prometheus:v3.4.2
 #valkey/valkey:8.1-alpine
-kubeshop/tracetest:v1.7.1
+#kubeshop/tracetest:v1.7.1
+centos:7
