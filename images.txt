@@ -154,4 +154,4 @@ kubernetesui/dashboard:v2.0.0
 #mongo:4.4
 #bugsink/bugsink:latest
 #traefik:v1.7
-flannel-io/flannel:v0.22.0-windows-amd64
+keking/kkfileview-base:4.4.0
