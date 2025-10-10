@@ -157,4 +157,5 @@ kubernetesui/dashboard:v2.0.0
 #keking/kkfileview:4.4.0
 #--platform linux/arm64 ubuntu:24.04
 #--platform linux/arm64 ubuntu:20.04
-hub.zentao.net/app/zentao:21.7.5
+#hub.zentao.net/app/zentao:21.7.5
+registry.cn-hangzhou.aliyuncs.com/ossrs/srs:6
