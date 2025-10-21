@@ -161,5 +161,6 @@ kubernetesui/dashboard:v2.0.0
 #registry.cn-hangzhou.aliyuncs.com/ossrs/srs:6
 #--platform linux/arm64 umlx/kkfileview:4.4.0
 #--platform linux/arm64 keking/kkfileview:4.3.0-arm64
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
-registry.k8s.io/ingress-nginx/controller:v1.8.2
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.2
+#registry.k8s.io/ingress-nginx/controller:v1.8.2
+apache/answer
