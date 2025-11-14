@@ -167,4 +167,5 @@ kubernetesui/dashboard:v2.0.0
 #ingress-nginx/kube-webhook-certgen:v20230407
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407@sha256:543c40fd093964bc9ab509d3e791f9989963021f1e9e4c9c7b6700b02bfb227b
 #rockylinux:9
-openresty/openresty:1.27.1.2-0-jammy
+#openresty/openresty:1.27.1.2-0-jammy
+ghcr.io/666ghj/bettafish:latest
