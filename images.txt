@@ -182,7 +182,8 @@ kubernetesui/dashboard:v2.0.0
 #docker.io/calico/pod2daemon-flexvol:v3.28.0
 #docker.io/calico/csi:v3.28.0
 #docker.io/calico/cni:v3.28.0
-docker.io/calico/node:v3.28.0
+#docker.io/calico/node:v3.28.0
+quay.io/tigera/operator:v1.34.0
 
 #ghcr.io/flannel-io/flannel:v0.27.4
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
