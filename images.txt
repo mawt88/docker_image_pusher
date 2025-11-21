@@ -178,9 +178,10 @@ kubernetesui/dashboard:v2.0.0
 #registry.k8s.io/etcd:3.6.5-0
 
 #docker.io/calico/typha:v3.28.0
-docker.io/calico/kube-controllers:v3.28.0
-docker.io/calico/pod2daemon-flexvol:v3.28.0
-docker.io/calico/csi:v3.28.0
+#docker.io/calico/kube-controllers:v3.28.0
+#docker.io/calico/pod2daemon-flexvol:v3.28.0
+#docker.io/calico/csi:v3.28.0
+docker.io/calico/cni:v3.28.0
 
 #ghcr.io/flannel-io/flannel:v0.27.4
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
