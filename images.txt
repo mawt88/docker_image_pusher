@@ -188,4 +188,5 @@ quay.io/tigera/operator:v1.34.0
 #ghcr.io/flannel-io/flannel:v0.27.4
 #ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
 #ghcr.io/flannel-io/flannel:v0.27.4
-goharbor/trivy-adapter-photon:v2.4.2
+#goharbor/trivy-adapter-photon:v2.4.2
+registry.k8s.io/metrics-server/metrics-server:v0.8.0
