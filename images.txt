@@ -193,4 +193,5 @@ quay.io/tigera/operator:v1.34.0
 #registry.k8s.io/metrics-server/metrics-server:v0.8.0
 #kubernetesui/metrics-scraper:v1.0.8
 #kubernetesui/dashboard:v2.7.0
-prom/prometheus
+#prom/prometheus
+hardened-helm-controller:v0.14.0-build20240523
