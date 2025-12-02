@@ -194,4 +194,4 @@ quay.io/tigera/operator:v1.34.0
 #kubernetesui/metrics-scraper:v1.0.8
 #kubernetesui/dashboard:v2.7.0
 #prom/prometheus
-rancher/rke2-helm-controller:v1.31.7-rke2r1
+rancher/rke2-helm-controller
