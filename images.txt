@@ -194,4 +194,4 @@ quay.io/tigera/operator:v1.34.0
 #kubernetesui/metrics-scraper:v1.0.8
 #kubernetesui/dashboard:v2.7.0
 #prom/prometheus
-ghcr.io/fluxcd/helm-controller:v0.36.3
+helm-controller
