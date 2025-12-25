@@ -195,4 +195,5 @@ quay.io/tigera/operator:v1.34.0
 #kubernetesui/dashboard:v2.7.0
 #prom/prometheus
 #helm-controller
-rancher/helm-controller:v0.38.0
+#rancher/helm-controller:v0.38.0
+nacos-server:2.3.2
