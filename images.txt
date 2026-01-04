@@ -2,3 +2,4 @@ swarmpit/swarmpit:latest
 couchdb:2.3.0
 influxdb:1.8
 portainer/portainer-ce:latest
+portainer/helper-reset-password:latest
