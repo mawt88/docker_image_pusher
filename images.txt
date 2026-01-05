@@ -3,6 +3,7 @@
 #influxdb:1.8
 #portainer/portainer-ce:latest
 #portainer/helper-reset-password:latest
-redis:6.2-alpine
-mysql:5.7
-#php-fpm:7.4
+#redis:6.2-alpine
+#mysql:5.7
+nginx:alpine
+php:7.4-fpm-alpine
