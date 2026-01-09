@@ -5,5 +5,6 @@
 #portainer/helper-reset-password:latest
 #redis:6.2-alpine
 #mysql:5.7
-nginx:alpine
-php:7.4-fpm-alpine
+#nginx:alpine
+#php:7.4-fpm-alpine
+minio/minio:RELEASE.2023-05-04T21-44-30Z
