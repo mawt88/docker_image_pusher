@@ -12,5 +12,5 @@ ghcr.io/anomalyco/opencode
 #apache/apisix:3.15.0-alpine
 #apache/apisix:3.11.0-debian
 #apache/apisix:3.11.0-redhat
-Egrafana/grafana:latest
-prom/node-exporter:latest
+#grafana/grafana:latest
+node-exporter:latest
