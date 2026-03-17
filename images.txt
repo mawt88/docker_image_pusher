@@ -15,4 +15,5 @@ ghcr.io/anomalyco/opencode
 #grafana/grafana:latest
 #prom/node-exporter:latest
 #lance159/12306-mcp
-redis:7
+#redis:7
+ghcr.io/openclaw/openclaw:latest
