@@ -16,4 +16,4 @@ ghcr.io/anomalyco/opencode
 #prom/node-exporter:latest
 #lance159/12306-mcp
 #redis:7
-ghcr.io/openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:1.2.27
