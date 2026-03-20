@@ -8,7 +8,7 @@
 #nginx:alpine
 #php:7.4-fpm-alpine
 #minio/minio:RELEASE.2023-05-04T21-44-30Z
-ghcr.io/anomalyco/opencode
+#ghcr.io/anomalyco/opencode
 #apache/apisix:3.15.0-alpine
 #apache/apisix:3.11.0-debian
 #apache/apisix:3.11.0-redhat
@@ -16,4 +16,5 @@ ghcr.io/anomalyco/opencode
 #prom/node-exporter:latest
 #lance159/12306-mcp
 #redis:7
-ghcr.io/openclaw/openclaw:1.2.27
+#ghcr.io/openclaw/openclaw:latest
+ghcr.io/anomalyco/opencode:1.2.27
