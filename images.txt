@@ -18,5 +18,9 @@
 #redis:7
 #ghcr.io/openclaw/openclaw:latest
 #ghcr.io/anomalyco/opencode:1.2.27
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.9
-registry.k8s.io/ingress-nginx/controller:v1.15.1
+#registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.6.9
+#registry.k8s.io/ingress-nginx/controller:v1.15.1
+calico/cni:v3.10.4
+calico/node:v3.10.4
+calico/kube-controllers:v3.10.4
+calico/pod2daemon-flexvol:v3.10.4
