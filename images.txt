@@ -6,3 +6,4 @@
 #gcr.io/cadvisor/cadvisor:v0.47.2
 #smanx/opencode:latest
 cr.weaviate.io/semitechnologies/weaviate:1.35.3
+monocular:1.1.0
