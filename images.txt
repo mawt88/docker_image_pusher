@@ -8,4 +8,4 @@
 #cr.weaviate.io/semitechnologies/weaviate:1.35.3
 #puneetguptanitj/monocular:v1
 #puneetguptanitj/monocular:latest
-opencode:v2.2.0
+ghcr.io/anomalyco/opencode:2.2.0
